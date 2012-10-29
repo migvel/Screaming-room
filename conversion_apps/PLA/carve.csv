@@ -1,0 +1,14 @@
+Format is tab separated carve settings.
+_Name                          	Value
+WindowPosition	700+0
+Open File for Carve	/werk/framis/3d/basic_cilinder_30_4.stl
+Add Layer Template to SVG	True
+Extra Decimal Places (float):	2.0
+Import Coarseness (ratio):	0.25
+Layer Thickness (mm):	0.4
+Layers From (index):	0
+Layers To (index):	9999
+Correct Mesh	True
+Unproven Mesh	False
+Perimeter Width over Thickness (ratio):	2.1
+SVG Viewer:	webbrowser

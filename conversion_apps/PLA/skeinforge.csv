@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	24+52
+Open File for Skeinforge	/Users/jorisvantubergen/Downloads/screams/scr1.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False

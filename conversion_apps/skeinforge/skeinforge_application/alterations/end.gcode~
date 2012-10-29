@@ -1,0 +1,8 @@
+(end of the file, cooldown routines)
+M104 S230 (end.gcode v2.0 - keep extruder on)
+G92 X0 Y0 Z0 (set current as home position)
+G1 X240.0 Y240.0 Z10 F8000 (ga snel naar rechts achter)
+G92 E0 (reset extrusion position)
+G1 Z20 F400 (platform down a little more)
+G90 (absolute positioning - end of end.gcode)
+M84 (disable steppers)
